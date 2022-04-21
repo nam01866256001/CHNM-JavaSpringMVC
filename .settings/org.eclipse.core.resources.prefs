@@ -1,0 +1,10 @@
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=85f30fd83e0e2974f2ee87b751d0e01e9330bbf6
+eclipse.preferences.version=1
+encoding//src/main/java/trasua/Controller/Admin/HomeAdminController.java=UTF-8
+encoding//src/main/java/trasua/Controller/Admin/LoginAdminController.java=UTF-8
+encoding//src/main/java/trasua/Controller/User/UserController.java=UTF-8
+encoding//src/main/java/trasua/Controller/User/giohangController.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/user/Login.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/user/menuindex.jsp=UTF-8
